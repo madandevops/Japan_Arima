@@ -16,7 +16,7 @@ st.title("📈 Japan Stock Forecasting App (ARIMA Model)")
 # Date range
 # -----------------------------
 s = d.datetime(2025, 1, 1)
-e = d.datetime(2025, 11, 1)
+e = d.datetime(2025, 11, 5)
 
 # -----------------------------
 # Function to download stock data
